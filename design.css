@@ -1,0 +1,33 @@
+#mikel{
+	text-align: left;
+	background-color: white;
+	color: white;
+	font-family: sans-serif;
+	margin: auto;
+	float: auto;
+	width: 380px;
+}
+td{
+	color: blue;
+	font-family: serif;
+	font-style: italic;
+}
+#khel {
+	margin: auto;
+	float: auto;
+	background-color: beige;
+	height: 670px;
+	
+}
+h1,h2 {
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
+#font{
+	color:blue;
+	background-color: white;
+}
+th{
+	color:blue;
+}
